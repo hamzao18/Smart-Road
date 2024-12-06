@@ -20,7 +20,7 @@ The Arduino code is connected to 3 IR sensors on :
 
 . Initializes serial communication at 9600 baud (useful for debugging)
 
-then :
+Then :
 
 . Reads the state of each IR sensor using digitalRead.
 
